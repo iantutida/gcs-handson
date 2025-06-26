@@ -1,6 +1,6 @@
 # Laboratório Prático de Entrega Contínua (CD)
 
-[![Status do Pipeline de CI/CD](https://github.com/arthurramires/gcs-handson/actions/workflows/pipeline.yml/badge.svg)](https://github.com/arthurramires/gcs-template/actions)
+[![Status do Pipeline de CI/CD](https://github.com/iantutida/gcs-handson/actions/workflows/pipeline.yml/badge.svg)](https://github.com/iantutida/gcs-template/actions)
 
 Este repositório serve como projeto-base para a aula prática de Gestão de Configuração de Software (GCS), com foco na implementação de um pipeline de Entrega Contínua.
 
